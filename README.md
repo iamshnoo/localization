@@ -3,6 +3,7 @@
 
 - 2D Histogram Filter
 - Python 3
+- related to Monte Carlo Localisation concept
 - helpers.py, localizer.py and simulate.py are provided as an existing code base
 - a new feature for sensing the 2D environment is added in localizer.py
 - an existing bug in the function for move is detected in localizer.py
